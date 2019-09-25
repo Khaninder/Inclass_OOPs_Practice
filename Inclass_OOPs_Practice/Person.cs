@@ -20,7 +20,7 @@
             }
             public Person(string salutation1, string fName, string lName)
             {
-                salutation = salutation1;// needs refinement     
+                salutation = salutation1;     
                 firstName = fName;
                 lastName = lName;
             }
